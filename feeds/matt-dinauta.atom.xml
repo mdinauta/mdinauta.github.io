@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>mdinauta.github.io</title><link href="http://mdinauta.github.io/" rel="alternate"></link><link href="http://mdinauta.github.io/feeds/matt-dinauta.atom.xml" rel="self"></link><id>http://mdinauta.github.io/</id><updated>2014-09-27T00:00:00+02:00</updated><entry><title>Creating this blog</title><link href="http://mdinauta.github.io/creating-this-blog.html" rel="alternate"></link><updated>2014-09-27T00:00:00+02:00</updated><author><name>Matt DiNauta</name></author><id>tag:mdinauta.github.io,2014-09-27:creating-this-blog.html</id><summary type="html">&lt;!-- Category: Python --&gt;
+
+&lt;!-- Tags: python, markdown --&gt;
+
+&lt;!-- Slug: creating-this-blog --&gt;
+
+&lt;p&gt;A few excellent libraries/services are powering this blog:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;, a static site generator written in Python&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://pages.github.com"&gt;Github pages&lt;/a&gt; for hosting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://daringfireball.net/projects/markdow/"&gt;Markdown&lt;/a&gt; for writing posts&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the past, I've run blogs off of Wordpress, but I really perfer this setup. For one, both the blog itself (posts, CSS) and the code powering it (Python) is up on github, and so version controled and in the same place I put code, my resume, notes, etc. Secondly, writing in markdown is way more pleasant than using any of the WYSIWYG editors on the big blogging platforms.&lt;/p&gt;
+&lt;p&gt;There are a number of tutorials online for setting up a blog this way. I found &lt;a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html"&gt;this&lt;/a&gt; very helpful and recommend it to anyone looking to set up a blog using Pelican. Knowledge of Python isn't necessary, only a bit of command-line knowledge (&lt;code&gt;cd&lt;/code&gt;-ing around, making directories with &lt;code&gt;mkdir&lt;/code&gt;), and git knowledge if you want to host through Github. &lt;/p&gt;</summary></entry></feed>
